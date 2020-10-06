@@ -1,4 +1,4 @@
-# [229](Log/229.md)
+# [229](https://github.com/Yuntwo/Leecode/blob/master/Log/299.md)
 
 
 
